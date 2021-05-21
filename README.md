@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my github profile!
+
+Please refer to <a href="thsu93.github.io ">my github page</a> for a breakdown of my projects.
+
+
 
 <!--
 **thsu93/thsu93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
