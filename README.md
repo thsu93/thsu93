@@ -1,6 +1,5 @@
 ### Welcome to my github profile!
 
-Please refer to <a href="https://thsu93.github.io/ ">my github page</a> for a breakdown of my projects.
 
 
 
